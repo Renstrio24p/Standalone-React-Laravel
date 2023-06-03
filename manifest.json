@@ -1,16 +1,15 @@
 {
+  "_router-8f1b16c7.js": {
+    "file": "assets/router-8f1b16c7.js",
+    "isDynamicEntry": true
+  },
   "resources/css/app.css": {
     "file": "assets/app-4ed993c7.js",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
-  "resources/js/assets/routes/router.jsx": {
-    "file": "assets/router-4ed993c7.js",
-    "isDynamicEntry": true,
-    "src": "resources/js/assets/routes/router.jsx"
-  },
   "resources/js/assets/start.jsx": {
-    "file": "assets/start-fcb7af71.js",
+    "file": "assets/start-c0c97b8b.js",
     "imports": [
       "resources/js/index.jsx"
     ],
@@ -18,7 +17,7 @@
     "src": "resources/js/assets/start.jsx"
   },
   "resources/js/assets/views/react-18/Navbar.jsx": {
-    "file": "assets/Navbar-9402671e.js",
+    "file": "assets/Navbar-7267247d.js",
     "imports": [
       "resources/js/index.jsx"
     ],
@@ -49,7 +48,7 @@
     "css": [
       "assets/react-2113d4b7.css"
     ],
-    "file": "assets/react-b00b6a21.js",
+    "file": "assets/react-83139624.js",
     "imports": [
       "resources/js/index.jsx"
     ],
@@ -81,12 +80,13 @@
       "assets/index-7ee20d53.css"
     ],
     "dynamicImports": [
-      "resources/js/assets/routes/router.jsx",
+      "_router-8f1b16c7.js",
+      "_router-8f1b16c7.js",
       "resources/js/assets/start.jsx",
       "resources/js/assets/views/react-18/Navbar.jsx",
       "resources/js/assets/views/react-18/react.jsx"
     ],
-    "file": "assets/index-5849e7e0.js",
+    "file": "assets/index-8bfa9541.js",
     "isEntry": true,
     "src": "resources/js/index.jsx"
   }
