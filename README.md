@@ -52,7 +52,7 @@ Start Laravel Project
 
 This Project is automatically deployed your project on github page.
 
-to begin your project goto /routes/web.php and find inertial.render() to render your project inside the assets folder.
+to begin your project goto /routes/web.php and find inertia.render() to render your project inside the assets folder.
 
 locate the "Start.jsx" to test your experiments or you can make your own.
 
