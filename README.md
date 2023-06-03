@@ -8,7 +8,7 @@ Laravel v10.x
 
 version update 1.0.4
 
-    - laravel - react inertial template (beta)
+    - laravel - react inertia template (beta)
     - working on deployment aspect.
 
 version update 1.0.3
