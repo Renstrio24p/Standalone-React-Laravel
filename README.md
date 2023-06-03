@@ -8,7 +8,8 @@ Laravel v10.x
 
 version update 1.0.4
 
-    - add support for codespace
+    - laravel - react inertial template (beta)
+    - working on deployment aspect.
 
 version update 1.0.3
 
