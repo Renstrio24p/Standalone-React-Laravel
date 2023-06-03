@@ -1,0 +1,93 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/assets/routes/router.jsx": {
+    "file": "assets/router-4ed993c7.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/assets/routes/router.jsx"
+  },
+  "resources/js/assets/start.jsx": {
+    "file": "assets/start-fcb7af71.js",
+    "imports": [
+      "resources/js/index.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/assets/start.jsx"
+  },
+  "resources/js/assets/views/react-18/Navbar.jsx": {
+    "file": "assets/Navbar-9402671e.js",
+    "imports": [
+      "resources/js/index.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/assets/views/react-18/Navbar.jsx"
+  },
+  "resources/js/assets/views/react-18/github.png": {
+    "file": "assets/github-9611b556.png",
+    "src": "resources/js/assets/views/react-18/github.png"
+  },
+  "resources/js/assets/views/react-18/laravel.png": {
+    "file": "assets/laravel-6ba88605.png",
+    "src": "resources/js/assets/views/react-18/laravel.png"
+  },
+  "resources/js/assets/views/react-18/react.css": {
+    "file": "assets/react-2113d4b7.css",
+    "src": "resources/js/assets/views/react-18/react.css"
+  },
+  "resources/js/assets/views/react-18/react.jsx": {
+    "assets": [
+      "assets/reactjs-icon2-e1d3b454.png",
+      "assets/vite-90838b31.png",
+      "assets/react-6000b0e9.svg",
+      "assets/laravel-6ba88605.png",
+      "assets/vite-4a748afd.svg",
+      "assets/github-9611b556.png"
+    ],
+    "css": [
+      "assets/react-2113d4b7.css"
+    ],
+    "file": "assets/react-b00b6a21.js",
+    "imports": [
+      "resources/js/index.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/assets/views/react-18/react.jsx"
+  },
+  "resources/js/assets/views/react-18/react.svg": {
+    "file": "assets/react-6000b0e9.svg",
+    "src": "resources/js/assets/views/react-18/react.svg"
+  },
+  "resources/js/assets/views/react-18/reactjs-icon2.png": {
+    "file": "assets/reactjs-icon2-e1d3b454.png",
+    "src": "resources/js/assets/views/react-18/reactjs-icon2.png"
+  },
+  "resources/js/assets/views/react-18/vite.png": {
+    "file": "assets/vite-90838b31.png",
+    "src": "resources/js/assets/views/react-18/vite.png"
+  },
+  "resources/js/assets/views/react-18/vite.svg": {
+    "file": "assets/vite-4a748afd.svg",
+    "src": "resources/js/assets/views/react-18/vite.svg"
+  },
+  "resources/js/index.css": {
+    "file": "assets/index-7ee20d53.css",
+    "src": "resources/js/index.css"
+  },
+  "resources/js/index.jsx": {
+    "css": [
+      "assets/index-7ee20d53.css"
+    ],
+    "dynamicImports": [
+      "resources/js/assets/routes/router.jsx",
+      "resources/js/assets/start.jsx",
+      "resources/js/assets/views/react-18/Navbar.jsx",
+      "resources/js/assets/views/react-18/react.jsx"
+    ],
+    "file": "assets/index-5849e7e0.js",
+    "isEntry": true,
+    "src": "resources/js/index.jsx"
+  }
+}
